@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'o que é GitHub?',
+    'O que é GitHub?',
     'É uma plataforma de código-fonte e arquivos com controle e ersão usando Git.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'O que é pegada ecológica?',
+    'É a quantidade de recursos naturais que uma pessoas, grupo ou país consome para viver, como (água, energia e terra)'
 )
 
 criaCartao(
